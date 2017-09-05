@@ -5,19 +5,10 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- * Given a string, find the length of the longest substring without repeating characters.
- * <p>
- * Examples:
- * <p>
- * Given "abcabcbb", the answer is "abc", which the length is 3.
- * Given "bbbbb", the answer is "b", with the length of 1.
- * Given "pwwkew", the answer is "wke", with the length of 3. Note that the answer must be a substring,
- * "pwke" is a subsequence and not a substring.
- * <p>
- * aaaadefg
- * <p>
- * <p>
- * Created by yujianmei on 2017/09/01.
+ Given an array S of n integers, are there elements a, b, c in S such that a + b + c = 0?
+ Find all unique triplets in the array which gives the sum of zero.
+
+ * Created by yujianmei on 2017/09/05.
  */
 public class A003_M_LongestSubString {
 

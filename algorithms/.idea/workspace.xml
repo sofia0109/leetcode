@@ -49,8 +49,8 @@
       <file leaf-file-name="A003_M_LongestSubString.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/algorithm/A003_M_LongestSubString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="816">
-              <caret line="61" column="49" lean-forward="false" selection-start-line="61" selection-start-column="49" selection-end-line="61" selection-end-column="49" />
+            <state relative-caret-position="216">
+              <caret line="10" column="37" lean-forward="false" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -73,7 +73,6 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/leetcode/algorithm/A020_E_Parentheses.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/leetcode/algorithm/A020_E_ValidParentheses.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/algorithm/A003_M_LongestSubString.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/leetcode/algorithm/A008_M_LongestSubString.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/leetcode/algorithm/A005_E_LongestPalindromic.java" />
         <option value="F:/JDK/jre/lib/rt.jar!/sun/misc/Unsafe.class" />
@@ -81,6 +80,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/leetcode/algorithm/A102_M_BinaryTreeLevelOrder.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/leetcode/algorithm/A017_E_LetterComOfPhoneNum.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/leetcode/algorithm/A015_E_3Sum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/algorithm/A003_M_LongestSubString.java" />
       </list>
     </option>
   </component>
@@ -381,15 +381,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1504276061383</updated>
-      <workItem from="1504276065434" duration="24423000" />
+      <workItem from="1504276065434" duration="24596000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24423000" />
+    <option name="totallyTimeSpent" value="24596000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -404,7 +405,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18230277" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18230277" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -569,8 +570,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/algorithm/A003_M_LongestSubString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="61" column="49" lean-forward="false" selection-start-line="61" selection-start-column="49" selection-end-line="61" selection-end-column="49" />
+        <state relative-caret-position="216">
+          <caret line="10" column="37" lean-forward="false" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
           <folding />
         </state>
       </provider>
