@@ -5,12 +5,10 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
+ * Given an array S of n integers, are there elements a, b, c in S such that a + b + c = 0? Find all unique triplets in the array which gives the sum of zero.
+ *
  * <p>
- * The brackets must close in the correct order, "()" and "()[]{}" are all valid but "(]" and "([)]" are not.
- * <p>
- * <p>
- * Created by yujianmei on 2017/09/01.
+ * Created by yujianmei on 2017/09/05.
  */
 public class A015_E_3Sum {
     /**
