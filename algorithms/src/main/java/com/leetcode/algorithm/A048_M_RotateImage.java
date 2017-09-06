@@ -30,10 +30,4 @@ public class A048_M_RotateImage
             }
         }
     }
-
-    public static void main( String[] args )
-    {
-        boolean[][] matrix = new boolean[4][5];
-        System.out.println(matrix[0].length);
-    }
 }
