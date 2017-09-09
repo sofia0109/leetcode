@@ -7,10 +7,19 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="algorithms" />
+        <module name="guava" />
+        <module name="guava-gwt" />
+        <module name="guava-testlib" />
+        <module name="guava-tests" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
-      <module name="algorithms" target="1.8" />
+      <module name="algorithms" target="1.5" />
+      <module name="guava" target="1.5" />
+      <module name="guava-gwt" target="1.5" />
+      <module name="guava-parent" target="1.5" />
+      <module name="guava-testlib" target="1.5" />
+      <module name="guava-tests" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

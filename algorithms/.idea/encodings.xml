@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://G:/guava" charset="UTF-8" />
+    <file url="file://G:/guava/guava" charset="UTF-8" />
+    <file url="file://G:/guava/guava-gwt" charset="UTF-8" />
+    <file url="file://G:/guava/guava-testlib" charset="UTF-8" />
+    <file url="file://G:/guava/guava-tests" charset="UTF-8" />
+  </component>
+</project>

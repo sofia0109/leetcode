@@ -3,6 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/algorithms.iml" filepath="$PROJECT_DIR$/algorithms.iml" />
+      <module fileurl="file://G:/guava/guava/guava.iml" filepath="G:/guava/guava/guava.iml" />
+      <module fileurl="file://G:/guava/guava-gwt/guava-gwt.iml" filepath="G:/guava/guava-gwt/guava-gwt.iml" />
+      <module fileurl="file://G:/guava/guava-parent.iml" filepath="G:/guava/guava-parent.iml" />
+      <module fileurl="file://G:/guava/guava-testlib/guava-testlib.iml" filepath="G:/guava/guava-testlib/guava-testlib.iml" />
+      <module fileurl="file://G:/guava/guava-tests/guava-tests.iml" filepath="G:/guava/guava-tests/guava-tests.iml" />
     </modules>
   </component>
 </project>
