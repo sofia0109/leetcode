@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://G:/commons-pool2-2.4.2-src" charset="UTF-8" />
     <file url="file://G:/guava" charset="UTF-8" />
     <file url="file://G:/guava/guava" charset="UTF-8" />
     <file url="file://G:/guava/guava-gwt" charset="UTF-8" />

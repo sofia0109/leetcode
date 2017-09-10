@@ -3,7 +3,7 @@ package com.leetcode.algorithm;
 /**
  * Hello world!
  * <p>
- * Created by yujianmei on $date
+ * Created by yujianmei on 2017-09-10
  */
 public class A160_E_IntersectionOfLinkedList {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
