@@ -15,7 +15,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
-      <module name="algorithms" target="1.5" />
+      <module name="algorithms" target="1.8" />
       <module name="commons-pool2" target="1.6" />
       <module name="guava" target="1.8" />
       <module name="guava-gwt" target="1.8" />
