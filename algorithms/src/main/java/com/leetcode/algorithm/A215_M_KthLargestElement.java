@@ -51,10 +51,10 @@ public class A215_M_KthLargestElement {
         int v = nums[low];
         int i = low, j = high + 1;
         while (true) {
-            while (/*i <= high &&*/ nums[++i] < v) {
+            while (nums[++i] < v) {
                 if (i == high) break;
             }
-            while (/*j >= low &&*/ nums[--j] > v);
+            while (nums[--j] > v);
             if (i >= j) {
                 break;
             }
