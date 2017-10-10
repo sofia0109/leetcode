@@ -35,7 +35,6 @@ public class A042_H_TrappingRainWater {
 
     public static void main(String[] args) {
         int[] arr = {0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1};
-        int trap = trap(arr);
-        System.out.println(trap);
+        System.out.println(trap(arr));
     }
 }
