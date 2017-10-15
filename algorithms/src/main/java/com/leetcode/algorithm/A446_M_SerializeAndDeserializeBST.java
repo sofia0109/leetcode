@@ -32,8 +32,8 @@ public class A446_M_SerializeAndDeserializeBST {
             }
         }
     }
-    // Decodes your encoded data to tree.
 
+    // Decodes your encoded data to tree.
     public TreeNode deserialize(String data) {
         if (data == null || data.length() == 0) {
             return null;
@@ -78,12 +78,5 @@ public class A446_M_SerializeAndDeserializeBST {
             result[index++] = Integer.valueOf(s);
         }
         return result;
-    }
-
-    public static void main(String[] args) {
-        System.out.println("Hello World!");
-        StringBuilder sb = new StringBuilder();
-        sb.append("1");
-        System.out.println(sb.substring(0, sb.length() - 1));
     }
 }
