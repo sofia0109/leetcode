@@ -14,15 +14,11 @@ public class A322_H_CoinChange {
             return result;
         }
         int[] max = new int[amount + 1];
-        max[0] = 0;
-        for (int i = 1; i <= amount; i++) {
-            max[i] = Integer.MAX_VALUE;
-        }
         for (int i = 1; i <= amount; i++) {
             boolean changed = false;
             for (int coin : coins) {
                 if (coin <= i && max[i - coin] != -1) {
-                    max[i] = Math.min(1 + max[i - coin], max[i]);
+                    max[i] = changed ? Math.min(1 + max[i - coin], max[i]) : 1 + max[i - coin];
                     changed = true;
                 }
             }
