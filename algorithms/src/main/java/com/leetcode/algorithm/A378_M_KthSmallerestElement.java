@@ -21,4 +21,28 @@ public class A378_M_KthSmallerestElement {
         }
         return queue.peek();
     }
+
+    //created on 2017-11-19
+    public int kthSmallestV2(int[][] matrix, int k) {
+        int len = matrix.length;
+        int low = matrix[0][0], high = matrix[len - 1][matrix[0].length - 1];
+        while (low < high) {
+            int smallerCnt = 0, mid = (low + high) / 2;
+            for (int i = 0; i < len; i++) {
+                for (int j = 0; j < len; j++) {
+                    if (matrix[i][j] <= mid) {
+                        smallerCnt++;
+                    } else {
+                        break;
+                    }
+                }
+            }
+            if (smallerCnt < k) {
+                low = mid + 1;
+            } else {
+                high = mid;
+            }
+        }
+        return low;
+    }
 }
